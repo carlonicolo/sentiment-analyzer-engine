@@ -1,4 +1,4 @@
-# Twitter Sentiment Analyzer Engine
+# Simple Twitter Sentiment Analyzer Engine
 
 ## Setting Environment
 Create the environment with conda  
